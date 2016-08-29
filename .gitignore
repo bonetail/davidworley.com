@@ -1,3 +1,14 @@
 /cgi-bin/
 /.htaccess
 /imgs/
+
+/bootstrap/package.json
+/booststrap/gulpfile.js
+/bootstrap/vendor
+/bootstrap/less
+/bootstrap.img
+
+/panel/__MACOSX
+/panel/images
+
+/resume/docs
