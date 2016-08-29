@@ -5,3 +5,14 @@ node_modules
 /less
 /gulpfile
 /package.json
+
+/bootstrap/package.json
+/booststrap/gulpfile.js
+/bootstrap/vendor
+/bootstrap/less
+/bootstrap.img
+
+/panel/__MACOSX
+/panel/images
+
+/resume/docs
