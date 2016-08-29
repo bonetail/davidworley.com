@@ -1,0 +1,7 @@
+node_modules
+/mail
+/vendor
+/img
+/less
+/gulpfile
+/package.json
